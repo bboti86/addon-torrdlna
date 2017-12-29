@@ -1,6 +1,6 @@
 {
   "name": "TorrentDLNA",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "slug": "torrdlna",
   "description": "Install ReadyMedia (MiniDLNA) and Transmission to your Hass.io host",
   "url": "https://github.com/bboti86",
