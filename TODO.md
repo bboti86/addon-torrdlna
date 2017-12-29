@@ -5,3 +5,4 @@
 5) turn repository into one that can be used in hass.io
 6) automatically add transmission component to Home Assistant with install
 7) make blocklist creation an option only
+8) save all transmission settings and minidlna db to hdd
